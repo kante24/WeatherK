@@ -1,0 +1,8 @@
+C:\Users\David\Documents\App Mobile 3\WeatherK\WeatherK\WeatherK\obj\Debug\netstandard2.0\WeatherK.csproj.AssemblyReference.cache
+C:\Users\David\Documents\App Mobile 3\WeatherK\WeatherK\WeatherK\obj\Debug\netstandard2.0\WeatherK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Documents\App Mobile 3\WeatherK\WeatherK\WeatherK\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\David\Documents\App Mobile 3\WeatherK\WeatherK\WeatherK\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\David\Documents\App Mobile 3\WeatherK\WeatherK\WeatherK\obj\Debug\netstandard2.0\Views\CurrentWeatherPage.xaml.g.cs
+C:\Users\David\Documents\App Mobile 3\WeatherK\WeatherK\WeatherK\obj\Debug\netstandard2.0\WeatherK.AssemblyInfoInputs.cache
+C:\Users\David\Documents\App Mobile 3\WeatherK\WeatherK\WeatherK\obj\Debug\netstandard2.0\WeatherK.AssemblyInfo.cs
+C:\Users\David\Documents\App Mobile 3\WeatherK\WeatherK\WeatherK\obj\Debug\netstandard2.0\WeatherK.csproj.CoreCompileInputs.cache
